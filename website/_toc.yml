@@ -10,7 +10,7 @@ parts:
       - file: GitHub.md
         title: GitHub
         sections:
-        - url: problems/GitHubLearn.md
+        - file: problems/GitHubLearn.md
           title: "Practice: GitHub"
 
 
