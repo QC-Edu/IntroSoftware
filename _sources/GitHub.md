@@ -4,7 +4,7 @@
 As you write a computer program or any other document, it is important to be able to save your work. This includes
 
 - saving your work at intermediate stages
-- creating multiple versions], so that you can select the option that balances the goals of being elegant (easy-to-understand), approachable (easy-to-use), and efficient (requiring less resources).
+- creating multiple versions, so that you can select the option that balances the goals of being elegant (easy-to-understand), approachable (easy-to-use), and efficient (requiring less resources).
 - editing files and groups of files collaboratively in a way that minimizes conflicts/inconsistencies and maximizes teamwork/accountability.
 
 ## &#x1f945; Learning Objectives
@@ -29,7 +29,7 @@ In this course, we use web-based version control (specifically Git and GitHub) t
   - Consider uploading a [profile picture](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#changing-your-profile-picture) or linking to a [gravatar](https://en.gravatar.com/). This isn't essential for using GitHub, but it is really useful to be able to have some memorable and distinguishing image for you rather than just the [identicon](https://github.blog/2013-08-14-identicons/). Don't be scared to have fun with this! You can always change this later.
 
 ## &#x1f469;&#x1f3fd;&#x200d;&#x1f4bb; Assignment
-- You will learn more about GitHub through the [assignment](./problems/GitHubLearn.md). This includes a brief overview of GitHub terminology and links to the GitHub starter courses.
+- You will learn more about GitHub through the [assignment](/problems/GitHubLearn.md). This includes a brief overview of GitHub terminology and links to the GitHub starter courses.
 
 ## Suggestion
 - Sign up for [GitHub Education](https://education.github.com/students) and especially the [Student Developer Pack](https://education.github.com/pack). This gives you access to a lot of free software and tools, plus a free domain name (and free web hosting of the domain for one year).
