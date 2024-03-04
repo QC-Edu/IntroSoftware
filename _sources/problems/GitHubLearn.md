@@ -93,9 +93,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Open a pull request and let your teacher know that you’ve finished this course.
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Complete the [First Day on GitHub](https://skills.github.com/#first-day-on-github) course. Upload proof of completion (a screenshot showing that all course components were completed or any other method of certifying completion suffices) to this repository. You do not need to complete the section on GitHub Pages.
-
-> Completing the preceding steps suffices for an **S** for this assignment. To earn an **S+**, also complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github). You do not have to complete the section on "relase-based workflows".
+* Complete the [First Day on GitHub](https://skills.github.com/#first-day-on-github) course.
+* Complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github). 
 
 ## 📚  Resources
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
