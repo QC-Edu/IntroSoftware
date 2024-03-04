@@ -10,10 +10,9 @@ parts:
       - file: GitHub.md
         title: GitHub
         sections:
-        - url: https://qchem.qc-edu.org/problems/ghfundamentals.html
-          title: "Practice: GitHub (Classroom)"
-        - url: https://qchem.qc-edu.org/problems/Tutorial_0.html
-          title: "Practice: Schrodinger Cat Colab"
+        - url: problems/GitHubLearn.md
+          title: "Practice: GitHub"
+
 
       - file: jupyter.ipynb
         title: Basics of Jupyter, Python, and Programming
