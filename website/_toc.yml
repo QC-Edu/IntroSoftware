@@ -7,7 +7,7 @@ parts:
 
   - caption: Topics
     chapters:
-      - file: documents/GitHub.md
+      - file: GitHub.md
         title: GitHub
         sections:
         - url: https://qchem.qc-edu.org/problems/ghfundamentals.html
