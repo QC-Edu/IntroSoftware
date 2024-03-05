@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>:wave: The Basics of GitHub &#8212; Ayers Lab</title>
+    <title>👋 The Basics of GitHub &#8212; Ayers Lab</title>
   
   
   
@@ -61,7 +61,7 @@
     <link rel="icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Jupyter and Computer Programming" href="../jupyter.html" />
+    <link rel="next" title="Introduction to Computer Programming and tools (Jupyter, Python, Numpy)" href="../jupyter.html" />
     <link rel="prev" title="Version Control with Git via GitHub" href="../GitHub.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -183,7 +183,10 @@
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Practice: GitHub</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="../jupyter.html">Basics of Jupyter, Python, and Programming</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../jupyter.html">Basics of Jupyter, Python, and Programming</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="JupyterPythonNumpy.html">Practice: Python, Jupyter, Numpy</a></li>
+</ul>
+</li>
 </ul>
 
     </div>
@@ -369,7 +372,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>:wave: The Basics of GitHub</h1>
+    <h1>👋 The Basics of GitHub</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -380,8 +383,8 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-overview-and-learning-outcomes">🤓 Course overview and learning outcomes</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#octocat-git-and-github">:octocat: Git and GitHub</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#octocat-understanding-the-github-flow">:octocat: Understanding the GitHub flow</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#git-and-github"> Git and GitHub</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-the-github-flow"> Understanding the GitHub flow</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#repositories">Repositories</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloning">Cloning</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#committing-and-pushing">Committing and pushing</a></li>
@@ -416,20 +419,20 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="wave-the-basics-of-github">
-<h1>:wave: The Basics of GitHub<a class="headerlink" href="#wave-the-basics-of-github" title="Link to this heading">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-basics-of-github">
+<h1>👋 The Basics of GitHub<a class="headerlink" href="#the-basics-of-github" title="Link to this heading">#</a></h1>
 <section id="course-overview-and-learning-outcomes">
 <h2>🤓 Course overview and learning outcomes<a class="headerlink" href="#course-overview-and-learning-outcomes" title="Link to this heading">#</a></h2>
 <p>The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀</p>
 </section>
-<section id="octocat-git-and-github">
-<h2>:octocat: Git and GitHub<a class="headerlink" href="#octocat-git-and-github" title="Link to this heading">#</a></h2>
+<section id="git-and-github">
+<h2><img alt="github_octocat" src="https://cdn3.emoji.gg/emojis/5643_github_octocat.png" /> Git and GitHub<a class="headerlink" href="#git-and-github" title="Link to this heading">#</a></h2>
 <p>Git is a <strong>distributed Version Control System (VCS)</strong>, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!</p>
 <p>GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.</p>
 <p>GitHub is home to some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we’ll dig into the rest later.</p>
 </section>
-<section id="octocat-understanding-the-github-flow">
-<h2>:octocat: Understanding the GitHub flow<a class="headerlink" href="#octocat-understanding-the-github-flow" title="Link to this heading">#</a></h2>
+<section id="understanding-the-github-flow">
+<h2><img alt="github_octocat" src="https://cdn3.emoji.gg/emojis/5643_github_octocat.png" /> Understanding the GitHub flow<a class="headerlink" href="#understanding-the-github-flow" title="Link to this heading">#</a></h2>
 <p>The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.</p>
 <section id="repositories">
 <h3>Repositories<a class="headerlink" href="#repositories" title="Link to this heading">#</a></h3>
@@ -573,7 +576,7 @@ To learn more about following users, read <a class="reference external" href="ht
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Jupyter and Computer Programming</p>
+        <p class="prev-next-title">Introduction to Computer Programming and tools (Jupyter, Python, Numpy)</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -594,8 +597,8 @@ To learn more about following users, read <a class="reference external" href="ht
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-overview-and-learning-outcomes">🤓 Course overview and learning outcomes</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#octocat-git-and-github">:octocat: Git and GitHub</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#octocat-understanding-the-github-flow">:octocat: Understanding the GitHub flow</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#git-and-github"> Git and GitHub</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-the-github-flow"> Understanding the GitHub flow</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#repositories">Repositories</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloning">Cloning</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#committing-and-pushing">Committing and pushing</a></li>

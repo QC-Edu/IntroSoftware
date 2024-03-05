@@ -1,10 +1,10 @@
-# :wave: The Basics of GitHub
+# 👋 The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
-## :octocat: Git and GitHub
+## ![github_octocat](https://cdn3.emoji.gg/emojis/5643_github_octocat.png) Git and GitHub
 
 Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
 
@@ -12,7 +12,7 @@ GitHub is a way to use the same power of Git all online with an easy-to-use inte
 
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
 
-## :octocat: Understanding the GitHub flow
+## ![github_octocat](https://cdn3.emoji.gg/emojis/5643_github_octocat.png) Understanding the GitHub flow
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
@@ -94,7 +94,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Complete the [First Day on GitHub](https://skills.github.com/#first-day-on-github) course.
-* Complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github). 
+* Complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github).
 
 ## 📚  Resources
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
