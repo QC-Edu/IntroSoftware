@@ -3,4 +3,4 @@ This course covers the basic tools and tricks of scientific software design. It 
 
 Students taking the course on a "formal" level should ensure that they have a project, as marks are project-performance based.
 
-Content is hosted on the [course web site](intro.qc-edu.org).
+Content is hosted on the [course web site](https://intro.qc-edu.org/intro.html).
