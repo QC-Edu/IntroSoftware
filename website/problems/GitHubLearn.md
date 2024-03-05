@@ -95,6 +95,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Complete the [First Day on GitHub](https://skills.github.com/#first-day-on-github) course.
 * Complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github).
+* Complete the [GitHub Actions Courses](https://skills.github.com/#automate-workflows-with-github-actions) that are most relevant. These include the basic introduction, automatic testing, publishing, and workflows.
 
 ## 📚  Resources
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
