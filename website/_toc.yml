@@ -7,15 +7,15 @@ parts:
 
   - caption: Topics
     chapters:
-      - file: GitHub.md
-        title: GitHub
-        sections:
-        - file: problems/GitHubLearn.md
-          title: "Practice: GitHub"
+    - file: GitHub.md
+      title: GitHub
+      sections:
+      - file: problems/GitHubLearn.md
+        title: "Practice: GitHub"
 
 
-      - file: jupyter.ipynb
-        title: Basics of Jupyter, Python, and Programming
-        sections:
-        - file: problems/JupyterPythonNumpy.md
-         title: "Practice: Python, Jupyter, Numpy"
+    - file: jupyter.ipynb
+      title: Basics of Jupyter, Python, and Programming
+      sections:
+      - file: problems/JupyterPythonNumpy.md
+        title: "Practice: Python, Jupyter, Numpy"
