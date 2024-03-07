@@ -360,7 +360,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -376,6 +378,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#projects">Projects</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -397,6 +407,22 @@ document.write(`
 </ul>
 <p>The course is project-based, meaning that there is little to no lecturing. Instead, useful resources are posted on the web site and participants work together to build/refine/develop software packages. This would be impossible without the assistance of many talented and experienced volunteers.</p>
 <p>I strongly recommend using VSCode as your IDE, but PyCharm can also work well.</p>
+<section id="projects">
+<h2>Projects<a class="headerlink" href="#projects" title="Link to this heading">#</a></h2>
+<p>Previous iterations of this course led to open-source packages, including:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://gbasis.qcdevs.org/intro.html">GBasis</a> Analytical evaluation and integration of Gaussian-type basis functions and related quantities.</p></li>
+<li><p><a class="reference external" href="https://grid.qcdevs.org/">Grid</a> Numerical integration, interpolation, and differentiation on (molecular) grids.</p></li>
+<li><p><a class="reference external" href="https://selector.qcdevs.org/intro.html">Selector</a> Methods for selecting diverse (molecular) database.</p></li>
+<li><p><a class="reference external" href="https://moha.qcdevs.org/build/html/index.html">Model Hamiltonian</a> Generate 1- and 2-electron integrals so that molecular quantum chemistry software can be used for model Hamiltonians.</p></li>
+</ul>
+<p>This year, we will be working with</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://chemtools.org/">ChemTools</a> A collection of interpretive chemical tools for analyzing outputs of the quantum chemistry calculations. (We will use the private repository rather than the public-facing one, however.)</p></li>
+<li><p><a class="reference external" href="https://pyci.qcdevs.org/intro.html">PyCI</a> Flexible ab-initio quantum chemistry library for (parameterized) configuration interaction calculations.</p></li>
+</ul>
+<p>For people who would like to follow the course but who are not formally enrolled, it’s recommended to select issues from QC-Devs packages that have been labelled as “Good First Issues.” QC-Devs packages are released through the <a class="reference external" href="https://github.com/theochem">theochem GitHub organization</a>.</p>
+</section>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -447,7 +473,20 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#projects">Projects</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
