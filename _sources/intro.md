@@ -23,3 +23,6 @@ This year, we will be working with
 - [PyCI](https://pyci.qcdevs.org/intro.html) Flexible ab-initio quantum chemistry library for (parameterized) configuration interaction calculations.
 
 For people who would like to follow the course but who are not formally enrolled, it's recommended to select issues from QC-Devs packages that have been labelled as "Good First Issues." QC-Devs packages are released through the [theochem GitHub organization](https://github.com/theochem).
+
+## QC-Edu
+This course is part of the [QC-Edu initiative](https://qc-edu.org/intro.html), which is the educational arm of the QC-Devs organization. The goal of QC-Edu is to provide high-quality, open-source educational resources for quantum chemistry and related fields. QC-Edu was envisioned, and is supported, by Farnaz Heidar-Zadeh, Valerii Chuiko, and Paul W. Ayers.
