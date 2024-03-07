@@ -24,5 +24,10 @@ This year, we will be working with
 
 For people who would like to follow the course but who are not formally enrolled, it's recommended to select issues from QC-Devs packages that have been labelled as "Good First Issues." QC-Devs packages are released through the [theochem GitHub organization](https://github.com/theochem).
 
+## Using and Contributing
+- [**QC-Devs Code of Conduct:**](https://github.com/theochem/guidelines/blob/main/CodeOfConduct.md) Treat others with respect, kindness, and empathy; assume they're doing the same. Communicate clearly. Be helpful. Be open. Be nice. If someone says stop; stop.
+- [**How to Contribute:**](https://github.com/theochem/guidelines/blob/main/contributing.md) Contributions are accepted and encouraged! This includes contributions from those who are not formally, or informally, involved/enrolled in the course.
+- [**CC0 version 1.0**](license.md) license. But where we have reposted/adapted/linked content from other sources, they retain their own copyright/license.
+
 ## QC-Edu
 This course is part of the [QC-Edu initiative](https://qc-edu.org/intro.html), which is the educational arm of the QC-Devs organization. The goal of QC-Edu is to provide high-quality, open-source educational resources for quantum chemistry and related fields. QC-Edu was envisioned, and is supported, by Farnaz Heidar-Zadeh, Valerii Chuiko, and Paul W. Ayers.
